@@ -671,6 +671,7 @@ Frameworks and scaffolding for building MCP servers:
 - Prefer official vendor-maintained servers (marked with ⭐) for production use.
 - Check each server repo for documentation about transports (stdio, SSE, HTTP), authentication, and example clients.
 - This ecosystem evolves rapidly — many new servers, clients, and frameworks are added frequently. If you maintain a server, ensure the repo has clear installation and security instructions.
+- [SkillFlow MCP Server](https://github.com/rafsilva85/skillflow-mcp-server) - Search and discover AI agent skills from the SkillFlow marketplace. Browse 500+ skills with trust metrics, categories, and ratings.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
